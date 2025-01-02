@@ -20,5 +20,9 @@ chmod +x run_inference.sh
 ```
 
 Separated tracks will be saved in `test_music_output/`.
-The model weights can be downloaded from xxxxxxx.com.
-Demo ：https://huggingface.co/spaces/NMLAB8/CISM
+
+## Model weights
+The model weights can be downloaded from https://huggingface.co/NMLAB8/CISM/tree/main
+
+## Demo ：
+https://huggingface.co/spaces/NMLAB8/CISM
